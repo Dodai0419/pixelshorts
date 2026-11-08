@@ -1,0 +1,17 @@
+# The warship Vasa, Stockholm, 1628. Sank on its first trip, about 1,300 metres out. Raised in 1961.
+title: The Warship That Sank in Twenty Minutes
+harbor day flash: The most powerful warship in the Baltic sank before it left the harbor.
+town day crowd: It was Stockholm in 1628, and the whole city came to watch.
+harbor golden stand: The Vasa carried sixty-four bronze cannons and hundreds of painted carvings.
+town day talk: The king had asked for a second deck of heavy guns, so the builders added one.
+harbor day walk: Nobody on the crew could say what that would do to the balance.
+harbor golden march: Before launch, thirty sailors ran from side to side to test how far it rolled.
+harbor golden shake: The ship rocked so hard that the admiral stopped the test and said nothing.
+harbor day stand: On August tenth, it set sail with four sails and an open row of gun ports.
+harbor day shake: A light gust leaned it over. It came back up. Then a second gust arrived.
+harbor storm collapse: Water poured through the gun ports, and the Vasa went down in front of everyone.
+town night stand: Luckily, the shore was close, so most people on board survived.
+town night talk: Unluckily, about thirty did not, and the inquiry blamed nobody at all.
+lab day talk: Think of a tall stack of books. Put the heavy ones on top, and a small nudge tips it.
+field day stand: The cold Baltic kept the wood whole for three hundred and thirty three years.
+town golden crowd: Raised in 1961, the Vasa now fills its own museum, and it still draws crowds.

@@ -1,0 +1,33 @@
+pixelshorts takes ideas from two MIT-licensed projects. No code or assets were copied from them.
+Reference frames, music and templates from those projects are not included here.
+
+claude-animated-shorts, https://github.com/mromidev/claude-animated-shorts
+Copyright (c) 2026 Mr omi. MIT License.
+Used for: the script formula, the 3.7 words per second pace, the 55 to 70 second target,
+synthesized score and SFX on one beat table, and the idea of a frame-by-frame QA check.
+
+pixel-plays, https://github.com/amirmushichge/pixel-plays
+Copyright (c) 2026 Amir Mushich. MIT License. Its music is under other terms and is not used.
+Used for: the look. Low-resolution frame, nearest-neighbour upscale, fixed isometric camera,
+Bayer dither, hue-shifted colour ramps, long cast shadows, a dithered edge dissolving into the background.
+
+The bitmap font follows the common 5x7 layout, also found in Adafruit-GFX (BSD).
+Permission notice for both projects:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

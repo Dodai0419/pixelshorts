@@ -1,0 +1,22 @@
+# The Tacoma Narrows bridge, 1940. Facts: opened July 1, collapsed November 7, wind about 40 mph.
+# Format: place light action: narration
+title: The Bridge That Danced Itself to Death
+bridge storm collapse: A brand new American bridge tore itself apart in a breeze.
+town day crowd: It was 1940 in Washington State, and the town was proud.
+bridge day walk: The Tacoma Narrows Bridge was the third longest suspension bridge in the world.
+bridge golden stand: It was also very thin, because thin was cheap and thin looked elegant.
+bridge day shake: From the first day, the deck rippled in the wind like a slow wave.
+town golden talk: Drivers named it Galloping Gertie, and people came just to ride the bumps.
+bridge day march: Crowds drove across for fun, watching cars ahead of them sink out of sight.
+lab day talk: Engineers tried cables and tried dampers, and the cables snapped.
+bridge storm shake: Four months after opening, on a November morning, the wind reached forty miles an hour.
+bridge storm shake: That is not a storm. But this time the deck began to twist.
+bridge storm shake: One side rose while the other side fell, again and again, for over an hour.
+bridge storm collapse: Then six hundred feet of concrete dropped into the water.
+town night stand: Luckily, not one person died.
+harbor night stand: Unluckily, a dog named Tubby was still in the last car.
+lab day talk: Think of a flag. Steady wind does not push it one way. It makes it flap.
+lab golden boom: Each twist of the deck caught more wind, and that made the next twist bigger.
+field day stand: Today every long bridge is tested in a wind tunnel first.
+bridge golden walk: And the film of Gertie's last dance is still shown to engineering students.
+town golden crowd: The bridge lasted four months. The lesson has lasted over eighty years.
